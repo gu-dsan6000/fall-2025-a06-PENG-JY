@@ -1,0 +1,11 @@
+log_entry,log_level
+17/06/09 18:19:02 INFO storage.BlockManager: Found block rdd_8051_31 locally,INFO
+"17/06/09 16:02:19 INFO python.PythonRunner: Times: total = 39, boot = -3, init = 42, finish = 0",INFO
+17/06/08 12:10:38 INFO executor.Executor: Finished task 36.0 in stage 76.0 (TID 3076). 2076 bytes result sent to driver,INFO
+"17/03/23 15:19:18 INFO storage.MemoryStore: Block broadcast_4_piece221 stored as bytes in memory (estimated size 4.0 MB, free 4.1 GB)",INFO
+17/06/09 17:23:40 INFO output.FileOutputCommitter: File Output Committer Algorithm version is 1,INFO
+"17/06/09 19:41:05 INFO python.PythonRunner: Times: total = 39, boot = 16, init = 23, finish = 0",INFO
+17/06/10 15:05:14 INFO output.FileOutputCommitter: File Output Committer Algorithm version is 1,INFO
+"17/06/09 21:13:20 INFO python.PythonRunner: Times: total = 39, boot = 2, init = 36, finish = 1",INFO
+17/06/09 13:30:00 INFO broadcast.TorrentBroadcast: Reading broadcast variable 14963 took 7 ms,INFO
+"17/06/09 11:53:28 INFO python.PythonRunner: Times: total = 39, boot = -35, init = 74, finish = 0",INFO
