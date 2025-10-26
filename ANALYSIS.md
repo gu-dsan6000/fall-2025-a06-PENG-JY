@@ -103,6 +103,7 @@
 - Leveraged **AWS S3A connector** with efficient connection reuse and path-style access for parallelized reads.
 
 ### Comparison of Local vs Cluster Performance
+
 | Environment | Dataset | Runtime | Notes |
 |--------------|----------|----------|-------|
 | Local (Sample Data) | ~10 MB | < 5 seconds | Used for debugging and regex verification only |
@@ -119,7 +120,7 @@
 ### Novel Visualizations Beyond Requirements
 - In addition to the required **bar chart** and **density plot**, the visual design emphasized **interpretability and comparability**:  
   - The **bar chart** included **numerical value labels** above each bar, enabling quick recognition of the magnitude differences between clusters.  
-  - The **density plot** was displayed on a **logarithmic x-axis**, transforming skewed job duration data into a clearer distribution and improving readability for long-tail tasks.  
+  - The **density plot** transforming skewed job duration data into a clearer distribution and improving readability for long-tail tasks.  
   - The figures were saved in high resolution with consistent titles, labels, and formatting, ensuring clarity for report inclusion and presentation use.
 
 ### Deeper Analysis of the Data
